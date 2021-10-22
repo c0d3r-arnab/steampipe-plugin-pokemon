@@ -20,7 +20,7 @@ from
   pokemon_berry
 ```
 
-### List all Berry where size more than 100 mm
+### List berries bigger than 100 mm
 
 ```sql
 select
@@ -33,7 +33,7 @@ where
   size > 100
 ```
 
-### List all Berry where soil_dryness between 10 and 30
+### List berries with soil dryness between 10 and 30
 
 ```sql
 select
